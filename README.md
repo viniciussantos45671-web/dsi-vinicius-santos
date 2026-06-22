@@ -72,3 +72,6 @@ public class Pessoa {
 ```
 
 **PORTELA, Edson. Entendendo Classes em Java. Disponível em:** *https://www.dio.me/articles/entendendo-classes-em-java* **Acesso em: 14 mar. 2026**
+
+
+### Anotações
