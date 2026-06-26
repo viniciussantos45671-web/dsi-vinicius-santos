@@ -1,20 +1,27 @@
-package 05;
+package aula05;
 
-public class Operadores_de_atribuicao {
+public class Operadores_de_atribuição {
+
     public static void main(String[] args) {
-         int x = 10; // Atribuição simples
-         x += 5; // Irá equivaler a x = x + 5
 
-         int y = 20; // Atribuição simples
-         y -= 3; // Equivale a  y = y -3; 
+        int x = 10;
+        x += 5; // x = x + 5
+        System.out.println("x = " + x);
 
-         int w = 16;
-         w /= 4; // Equivale a w = w / 4; 
+        int y = 20;
+        y -= 3; // y = y - 3
+        System.out.println("y = " + y);
 
-         int z = 10;
-         z % 3; // Equivale a z = z % 3;
+        int w = 16;
+        w /= 4; // w = w / 4
+        System.out.println("w = " + w);
 
-         int a = 2;
-         a *= 2; // Equivale a a = a * 2; 
+        int z = 10;
+        z %= 3; // z = z % 3
+        System.out.println("z = " + z);
+
+        int a = 2;
+        a *= 2; // a = a * 2
+        System.out.println("a = " + a);
     }
 }

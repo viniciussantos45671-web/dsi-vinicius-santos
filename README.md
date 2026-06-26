@@ -75,3 +75,35 @@ public class Pessoa {
 
 
 ### Anotações
+
+# O que o código faz:
+* Cria um array com nomes de cantoras
+* Usa um contador `i`
+* Percorre a lista até o final
+
+
+
+## Break
+
+Exemplo de uso do `break`.
+
+###  O que o código faz:
+* Usa um loop `for`
+* Interrompe a execução quando a condição é atendida
+* Demonstra como sair de um loop antes do fim
+
+
+
+## Conceitos aprendidos
+
+* Estruturas de repetição (`while`, `for`)
+* Controle de fluxo (`break`)
+* Arrays em Java
+* Boas práticas (como uso de `sc.close()` em Scanner)
+
+
+##  Observações
+
+* Sempre inicializar corretamente variáveis de controle em loops
+* Usar `break` com cuidado para não interromper lógica sem necessidade
+* Fechar o `Scanner` quando não for mais usado
