@@ -100,6 +100,11 @@ Exemplo de uso do `break`.
 * Controle de fluxo (`break`)
 * Arrays em Java
 * Boas práticas (como uso de `sc.close()` em Scanner)
+*  JPA - Especificação oficial da linguagem Java que padroniza o mapeamento objeto-relacional (ORM) e o gerenciamento de dados persistentes.
+* Utilitário - Algo que serve como ferramenta de apoio e pode ser reutilizado no sistema.
+* Concorrência — Concurrent - Forma de trabalhar com várias tarefas ao mesmo tempo.
+* Atomic - Biblioteca do Java usada para trabalhar com valores de forma segura em concorrência.
+
 
 
 ##  Observações
